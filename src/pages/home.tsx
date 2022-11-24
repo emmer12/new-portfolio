@@ -38,7 +38,8 @@ const Home = () => {
             <br />
             designing exceptional digital experiences. Currently, I’m focused
             <br />
-            on building accessible, human-centered products at Cellepay
+            on building accessible, human-centered products at{" "}
+            <a href="https://buildingsandmore.ng">buildingsandmore.ng</a>
           </Text>
           <Spacer height={20} />
 
@@ -205,7 +206,7 @@ const Home = () => {
           </a>
 
           <a
-            href="www.linkedin.com/in/emmanueltaiwo"
+            href="https://linkedin.com/in/emmanueltaiwo"
             target="_blank"
             rel="noreferrer"
           >

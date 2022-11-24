@@ -138,7 +138,7 @@ export const MItems = styled.div`
   position: absolute;
   background: #010a18;
   width: 100vw !important;
-  right: 0px;
+  right: calc(0px - 20px);
   padding: 10px;
   text-align: center;
   box-shadow: 0px 2px 20px #000712;
@@ -150,16 +150,12 @@ export const MItems = styled.div`
   &.added {
     transform: translateX(0vw) rotate(0deg);
     transform-origin: top;
-
-    > path {
-      transform: rotate(30deg);
-    }
   }
 `;
 
 export const Items = styled.a`
   font-family: "Roboto Mono", monospace;
-  padding: 0px 25px;
+  padding: 0px 10px;
   position: relative;
   text-decoration: none;
 `;
