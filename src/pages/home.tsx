@@ -39,7 +39,7 @@ const Home = () => {
             designing exceptional digital experiences. Currently, I’m focused
             <br />
             on building accessible, human-centered products at{" "}
-            <a href="https://buildingsandmore.ng">buildingsandmore.ng</a>
+            <a href="https://cellepay.me">cellepay.me</a>
           </Text>
           <Spacer height={20} />
 
